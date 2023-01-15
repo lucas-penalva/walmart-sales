@@ -24,6 +24,8 @@ Os feriados que maior impactam sobre as vendas são o de Ação de Graças e de 
 
 Observa-se que as promoções começam impactar sobre alguns dias antes de ocorrerem os feriados e durante eles.
 
+## Machine Learning
+
 - É possível estimar as vendas das lojas por semana em datas futuras de 2012–11–02 a 2013–07-26? Se sim, quais seriam esses valores?
 
 |  __Faturamento (billing)__  |
